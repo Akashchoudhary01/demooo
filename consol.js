@@ -1,2 +1,5 @@
 //Hey this is a comment
-consol.log("Hello World");
+console.log("Hello World");
+console.log("Hello World");
+console.log("Hello World");
+// output is Hello World
